@@ -1,7 +1,6 @@
-tensorflow
-mtcnn
+tensorflow>=2.10
 opencv-python
-scikit-learn
-matplotlib
+mtcnn
 numpy
-jupyter
+matplotlib
+scikit-learn
