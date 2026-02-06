@@ -124,6 +124,11 @@ The trained VGG16-based deepfake detection model shows strong and stable perform
 - Experiment with more advanced architectures like EfficientNet or Vision Transformers
 - Improve robustness against low-resolution and compressed images
 
+---
+
+## Conclusion
+
+This project demonstrates that combining face-based preprocessing using MTCNN with transfer learning using VGG16 can achieve high accuracy for image-level deepfake detection. The results show strong generalization on unseen data, highlighting the effectiveness of deep feature extraction for detecting manipulated facial images.
 
 ---
 
