@@ -78,8 +78,9 @@ The dataset used in this project consists of facial images categorized into two 
 ### Dataset Organization
 
 - Training data is used to learn model parameters  
-- Validation data is used for hyperparameter tuning  
-- Test data is used only for final performance evaluation
+- Training data is used to learn model parameters  
+- A held-out test dataset is used for validation during training and final performance evaluation
+
 
 All datasets follow a directory-based structure where each class is stored in a separate folder.
 ---
@@ -91,7 +92,8 @@ All datasets follow a directory-based structure where each class is stored in a 
 - **Optimizer**: Adam  
 - **Loss Function**: Binary Cross-Entropy  
 - **Batch Size**: 32  
-- **Epochs**: 50  
+- The model was trained for 20 epochs using the Adam optimizer with a learning rate of 1e-4.
+
 
 To prevent overfitting, dropout and batch normalization layers are used in the classification head.
 ---
