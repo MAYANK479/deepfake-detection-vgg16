@@ -100,6 +100,12 @@ Dropout and batch normalization are applied in the classification head to reduce
 ## Results and Performance
 
 The trained VGG16-based deepfake detection model shows strong and stable performance on the test dataset.
+![Training Curves](project/training_curves.png)
+
+![Confusion Matrix](project/confusion_matrix.png)
+
+![Sample Prediction](project/sample_prediction.png)
+
 
 ### Quantitative Results
 - **Test Accuracy**: 99.37%
