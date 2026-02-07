@@ -168,6 +168,7 @@ Step 4: Run the notebook cells sequentially
 
 **Mayank Pandey**  
 **Sadique Nomani**
-B.Tech Computer Science Engineering (AI/ML)  
+
+* B.Tech Computer Science Engineering (AI/ML)  
 
 This project demonstrates the application of face-based preprocessing with **MTCNN** and transfer learning using **VGG16** for high-accuracy deepfake detection.
