@@ -180,17 +180,19 @@ Step 4: Run the notebook cells sequentially
 
 ## Author
 
-**Mayank Pandey** 
+### **Mayank Pandey**  
+**B.Tech Computer Science Engineering (AI/ML)**  
+Project Lead
 
-**Sadique Nomani**
+---
 
-**Mansi Jain**
+## Contributors
 
-**Vaishali Negi**
+- Sadique Nomani  
+- Mansi Jain  
+- Vaishali Negi  
+- Vasudha Sharma  
 
-**Vasudha Sharma**
+---
 
-
-B.Tech Computer Science Engineering  
-
-This project demonstrates the application of face-based preprocessing with **MTCNN** and transfer learning using **VGG16** for high-accuracy deepfake detection.
+This project demonstrates the application of face-based preprocessing using **MTCNN** and transfer learning with **VGG16** for high-accuracy deepfake image detection.
