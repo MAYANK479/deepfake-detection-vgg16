@@ -7,6 +7,20 @@
 
 **Topics:** computer-vision • deep-learning • transfer-learning • mtcnn-face-detection • vgg16-model • deepfake-detection • ai-ml
 
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Directory Structure](#directory-structure)
+3. [Methodology / Pipeline](#methodology--pipeline)
+4. [Dataset Description](#dataset-description)
+5. [Training Details](#training-details)
+6. [Results and Performance](#results-and-performance)
+7. [Future Work](#future-work)
+8. [Conclusion](#conclusion)
+9. [How to Run the Project](#how-to-run-the-project)
+10. [Author](#author)
+
+
 This repository presents a complete deepfake detection pipeline based on face detection using **MTCNN** and binary classification using a **VGG16 (transfer learning)** model. The project is designed with a clear, modular structure to ensure reproducibility, clarity, and professional presentation.
 
 ---
